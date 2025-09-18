@@ -1,4 +1,4 @@
-## Oi eu seou Felipe Mageste 👋
+## Oi eu sou Felipe Mageste 👋
 
 - Em transição de carreira para Área da tecnologia
 - Estudante de Análise e desenvolvimento de sistemas (ADS) pela UniFECAF
