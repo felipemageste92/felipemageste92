@@ -4,16 +4,17 @@
 - Estudante de Análise e desenvolvimento de sistemas (ADS) pela UniFECAF
 
 Atualmente Estudando:
-- 📘 MySQL e banco de dados relacionais
+-  Power BI, Power Query, DAX
+-  MySQL e banco de dados relacionais
 -  Git e GitHub para versionamento
 -  fundamentos de HTML, CSS, Python e JavaScript
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel-plain.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/mysql-original.svg">
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/mysql-plain.svg">
   
   
   ##
