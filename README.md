@@ -7,14 +7,15 @@ Atualmente Estudando:
 -  Power BI, Power Query, DAX
 -  MySQL e banco de dados relacionais
 -  Git e GitHub para versionamento
--  fundamentos de HTML, CSS, Python e JavaScript
+-  Python para análise de dados
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi-original.svg">
-  <img align="center" alt="Felipe-Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel-plain.svg">
+  <img align="center" alt="Felipe-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
+  <img align="center" alt="Felipe-Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/mysql-plain.svg">
+  <img align="center" alt="Felipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
   
   
   ##
