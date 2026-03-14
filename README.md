@@ -11,12 +11,11 @@ Atualmente Estudando:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
-  <img align="center" alt="Felipe-Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg">
+  <img align="center" alt="Felipe-PowerBI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811">
+  <img align="center" alt="Felipe-Excel" height="30" width="40" src="https://cdn.simpleicons.org/microsoftexcel/217346">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  
   
   ##
  
