@@ -13,7 +13,7 @@ Atualmente Estudando:
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Felipe-PowerBI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811">
+  <img align="center" alt="Power BI" height="30" width="30" src="https://img.icons8.com/color/48/power-bi.png"/>
 </div>
   
   ##
