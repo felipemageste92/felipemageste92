@@ -1,13 +1,20 @@
-## Oi eu sou Felipe Mageste 👋
+## Oi, eu sou Felipe Mageste! 👋
 
-- Em transição de carreira para Área da tecnologia
-- Estudante de Análise e desenvolvimento de sistemas (ADS) pela UniFECAF
+Estou em transição de carreira para a área de dados e sou estudante de **Ciência de Dados na UniFECAF**. Meu foco é atuar com **Análise de Dados e Business Intelligence**, transformando dados em informações que apoiem decisões.
 
-Atualmente Estudando:
--  Power BI, Power Query, DAX
--  MySQL e banco de dados relacionais
--  Git e GitHub para versionamento
--  Python para análise de dados
+### 🎓 Formação acadêmica
+- Graduação em Ciência de Dados — UniFECAF (em andamento).
+
+### 📚 Formações complementares
+- MySQL e bancos de dados relacionais.
+- SQL Server.
+- Power BI.
+
+### 🚀 Atualmente aprofundando meus conhecimentos em
+- **Power BI, Power Query e DAX:** tratamento de dados, criação de medidas e desenvolvimento de dashboards.
+- **SQL:** consultas e análise de dados em bancos relacionais.
+- **Python:** manipulação e análise de dados.
+- **Git e GitHub:** versionamento e organização de projetos.
 
 
 <div style="display: inline_block"><br>
